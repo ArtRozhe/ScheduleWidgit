@@ -1,0 +1,11 @@
+.odd {
+    background-color: #c3e0eb;
+}
+
+.even {
+    background-color: #fff;
+}
+
+td, th {
+    border: 1px solid #000;
+}
